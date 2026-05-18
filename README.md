@@ -60,8 +60,6 @@
 ## 📚 Professional Experience
 
 ### Hardware Design & PCB Engineer
-**[Current/Recent Role]**
-
 Key responsibilities:
 - Designed and developed digital & analog circuits for complex applications
 - Created multi-layer PCB layouts optimized for signal integrity
