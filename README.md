@@ -17,15 +17,6 @@
 
 ---
 
-## 🏆 Key Achievements
-
-✅ **Improved system reliability** through innovative circuit design  
-✅ **Reduced project costs** via optimized BOM and manufacturing processes  
-✅ **Proven track record** in hardware development excellence  
-✅ **Multi-disciplinary expertise** spanning design, validation, and prototyping  
-
----
-
 ## 🛠️ Technical Competencies
 
 ### **PCB Design Tools**
@@ -106,6 +97,15 @@ I conduct comprehensive testing and validation, from prototype troubleshooting t
 
 ### **Cost Optimization**
 I optimize BOMs and manufacturing processes to reduce costs by 15%+ while maintaining quality and reliability standards.
+
+---
+
+## 🏆 Key Achievements
+
+✅ **Improved system reliability** through innovative circuit design  
+✅ **Reduced project costs** via optimized BOM and manufacturing processes  
+✅ **Proven track record** in hardware development excellence  
+✅ **Multi-disciplinary expertise** spanning design, validation, and prototyping  
 
 ---
 
