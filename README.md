@@ -124,7 +124,6 @@ This serves as both a portfolio and a resource for the engineering community.
 
 ## 🚀 Current Focus
 
-**[Add what you're currently working on]**
 - Advanced multi-layer PCB design techniques
 - EMI/EMC compliance optimization
 - High-speed signal integrity
@@ -149,7 +148,6 @@ Beyond circuit design, I'm passionate about:
 - **Email:** varshini.krishna.r@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/varshinirk/
 - **GitHub:** https://github.com/resist-er
-- **Location:** Vienna, Austria
 ---
 
 ## 🌟 Design Standards
@@ -190,22 +188,20 @@ Whether you're interested in:
 - 🤝 Networking in the electronics industry
 - 🏆 Working together on exciting projects
 
-**Feel free to reach out!** I'm always interested in connecting with fellow engineers and exploring new opportunities.
+**I'm always interested in connecting with fellow engineers and exploring new opportunities.Feel free to reach out!**
 
 ---
 ## 🎉 Thank You!
 
 Thanks for visiting my GitHub profile! I'm excited to share my hardware design expertise and learn from the community.
 
-**Let's build something amazing together! 🚀**
-
 ---
 
-**Last Updated:** [Date]  
+**Last Updated:** 19-05-2026  
 **Location:** Vienna, Austria  
 **Status:** Open to new opportunities in hardware engineering
 
----
+**Let’s make electrons dance together ⚡🕺**
 
-*Hardware design is not just a job—it's a passion for creating reliable, innovative solutions that solve real problems.*
+---
 
