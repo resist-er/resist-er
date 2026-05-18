@@ -119,6 +119,7 @@ I use GitHub to document and showcase my hardware engineering work, including:
 - Technical expertise and case studies
 
 This serves as both a portfolio and a resource for the engineering community.
+
 ---
 
 ## 🚀 Current Focus
