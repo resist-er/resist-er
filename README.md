@@ -8,7 +8,7 @@
 
 ⚙️ Hardware Design Engineer with hands-on experience in power electronics, embedded systems, and PCB design.
 - 🔌 **Digital & Analog Circuit Design** - Complex electronics architecture
-- 📐 **Multi-Layer PCB Layout** - Using Cadence Allegro & Altium Designer
+- 📐 **Multi-Layer PCB Layout** - Altium Designer, Cadence Allegro & KiCAD
 - ⚡ **Power Supply Design** - Onboard power management solutions
 - 🎛️ **Microcontroller Integration** - Embedded systems & hardware validation
 - 🛡️ **Signal Integrity & EMI/EMC** - Compliance-driven design (HyperLynx)
